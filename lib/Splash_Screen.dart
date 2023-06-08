@@ -14,7 +14,7 @@ class _Splash_ScreenState extends State<Splash_Screen> {
     return Scaffold(
       backgroundColor: Colors.white,
       body: Center(
-        child: Text("Splash"),
+        child: Text("Edited Splash"),
       ),
     );
   }
